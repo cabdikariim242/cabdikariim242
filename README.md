@@ -9,8 +9,8 @@
 - 🌱 I’m learning React.js, Node.js, Express, MongoDB  
 - 💬 Ask me about HTML, CSS, JavaScript, React, Vue, Git  
 - 👯 I’m looking to collaborate on real-world projects and internships  
-- ⚡ Fun fact: I watch anime and love to write clean code  
-- 📫 Reach me at: **abdirahmaanmoha2022@gmail.com**
+- ⚡ Fun fact: My Fav Movie Is  HHTD and I love to write clean code  
+- 📫 Reach me at: **abdikarim.dev01@gmail.com**
 
 ---
 
