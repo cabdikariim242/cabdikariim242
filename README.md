@@ -55,9 +55,7 @@
   <a href="https://abdikarim-dev-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
