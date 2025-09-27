@@ -33,7 +33,7 @@
 ## 📈 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=radical" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cabdikarim242&show_icons=true&theme=radical" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=cabdikarim242&theme=radical&hide_border=true" height="150" alt="GitHub Streak"/>
 </p>
 
