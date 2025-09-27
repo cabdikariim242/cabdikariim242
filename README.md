@@ -25,7 +25,7 @@
 ## ⚡ My Tech Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode,nodejs,express,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode,nodejs," />
 </p>
 
 ---
