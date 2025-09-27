@@ -25,7 +25,7 @@
 ## ⚡ My Tech Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode,nodejs," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode," />
 </p>
 
 ---
@@ -34,11 +34,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdirahmaan12&show_icons=true&theme=radical" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdirahmaan12&theme=radical&hide_border=true" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cabdikarim242&theme=radical&hide_border=true" height="150" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdirahmaan12&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikarim242&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
