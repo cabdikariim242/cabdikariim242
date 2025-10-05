@@ -40,14 +40,14 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="420" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
 
-  <!-- GitHub Streak -->
-
-</div>
-
+ 
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical" alt="Top Languages" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);"/>
 </p>
+</div>
+
+
 
  ---
 
