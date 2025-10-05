@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="420" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cabdikariim242&theme=radical" alt="GitHub Streak" width="380" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
+
 </div>
 
 <p align="center">
@@ -49,28 +49,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical" alt="Top Languages" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);"/>
 </p>
 
----
-
-## 🐍 Contributions Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cabdikariim242/cabdikariim242/main/snake.svg" alt="GitHub Contributions Snake" width="700" />
-</p>
-
----
+ ---
 
 ## 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cabdikariim242&theme=radical&no-frame=true&row=1&column=5" alt="Trophies"/>
 </p>
 
----
-
-## 🎨 Projects Showcase
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-E-commerce_UI-9cf?style=for-the-badge" alt="Project1"/> &nbsp;
-  <img src="https://img.shields.io/badge/Project-Rotating_Gallery-F7A?style=for-the-badge" alt="Project2"/> &nbsp;
-  <img src="https://img.shields.io/badge/Project-Pomodoro_Timer-68D?style=for-the-badge" alt="Project3"/>
-</p>
 
 ---
 
