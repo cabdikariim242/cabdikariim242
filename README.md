@@ -37,9 +37,10 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=cabdikariim242&theme=radical&v=3" alt="GitHub Streak" />
+  <!-- GitHub Streak (Vercel mirror) -->
+  <img src="https://github-readme-streak-stats.vercel.app/?user=cabdikariim242&theme=radical" alt="GitHub Streak" />
 </div>
+
 ---
 
 ## 🌍 Let’s Connect  
