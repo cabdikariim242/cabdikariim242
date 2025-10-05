@@ -41,8 +41,6 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="420" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
 
-
-
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical" alt="Top Languages" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);"/>
@@ -58,23 +56,24 @@
 ---
 
 ## 💬 Motivational Quote Bot
-Here’s a simple **Python bot** that generates motivational quotes:
+Here’s an interactive **JavaScript-based** bot that generates a random motivational quote every time you reload the page:
 
-```python
-import random
-
-# List of motivational quotes
-quotes = [
+```html
+<!-- Motivational Quote Bot -->
+<p id="quote"></p>
+<script>
+  const quotes = [
     "Believe in yourself!",
     "You are stronger than you think!",
     "Don't stop until you're proud!",
     "Every day is a new opportunity.",
     "Success is the sum of small efforts, repeated day in and day out."
-]
+  ];
 
-# Function to return a random quote
-def get_motivational_quote():
-    return random.choice(quotes)
+  function getMotivationalQuote() {
+    const randomIndex = Math.floor(Math.random() * quotes.length);
+    return quotes[randomIndex];
+  }
 
-# Call the function to get a random quote
-print(get_motivational_quote())
+  document.getElementById("quote").innerText = getMotivationalQuote();
+</script>
