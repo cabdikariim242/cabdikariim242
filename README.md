@@ -8,6 +8,9 @@
   <a href="https://my-portfolio-ten-henna-48.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/abdikarim-dev-b6a94b388/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
