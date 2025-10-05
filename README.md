@@ -75,4 +75,4 @@
 </p>
 
 <!-- Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&section=header&text=👋+Hey!+I'm+Abdikarim&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&section=header&text=👋+See You Soon&fontSize=20&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
