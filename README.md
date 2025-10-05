@@ -33,12 +33,13 @@
 
 ---
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical" alt="stats" />
+<div style="display: flex; gap: 20px; align-items: center;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=cabdikariim242&theme=radical&v=3" alt="GitHub Streak" />
-
-
-</p>
+</div>
 ---
 
 ## 🌍 Let’s Connect  
