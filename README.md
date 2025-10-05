@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently focused on **building beautiful & responsive UIs**  
 - 🌱 Learning my way through **React, Node.js, Express, MongoDB**  
-- 💡 Solid with **HTML, CSS, JavaScript, Vue, Git, TailwindCSS**  
+- 💡 Solid with **HTML, CSS, JavaScript, Vue, React, Git, TailwindCSS**  
 - 🎯 Goal: To become a **Fullstack Developer** and work on impactful projects  
 - ⚡ Fun fact: My favorite movie is **How To Train Your Dragon 🐉**
 
