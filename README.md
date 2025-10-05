@@ -56,24 +56,32 @@
 ---
 
 ## 💬 Motivational Quote Bot
-Here’s an interactive **JavaScript-based** bot that generates a random motivational quote every time you reload the page:
+Here’s a random **motivational quote** that gets updated manually by generating a new image link with your chosen quote.
 
-```html
-<!-- Motivational Quote Bot -->
-<p id="quote"></p>
-<script>
-  const quotes = [
-    "Believe in yourself!",
-    "You are stronger than you think!",
-    "Don't stop until you're proud!",
-    "Every day is a new opportunity.",
-    "Success is the sum of small efforts, repeated day in and day out."
-  ];
+![Motivational Quote](https://via.placeholder.com/600x100/9966EB/ffffff?text=%22Believe+in+yourself!+You+can+do+it!%22)
 
-  function getMotivationalQuote() {
-    const randomIndex = Math.floor(Math.random() * quotes.length);
-    return quotes[randomIndex];
-  }
+_Refresh this image with a new quote when you want to change it._
 
-  document.getElementById("quote").innerText = getMotivationalQuote();
-</script>
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:abdikarim.dev01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://my-portfolio-ten-henna-48.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdikarim-dev-b6a94b388/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+⚡ Building today for a better tomorrow. Let's code something amazing together! ⚡
+</p>
+
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
