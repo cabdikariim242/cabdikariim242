@@ -1,7 +1,6 @@
-<!-- Animated Capsule Header -->
+<!-- Animated Typing Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hey!+I'm+Abdikarim&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
 
-<!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9966EB&width=700&lines=Hey,+I'm+Abdikarim!;Front-End+Developer+%7C+Aspiring+Fullstack;Let's+Build+Awesome+Apps!" alt="Typing SVG"/>
 </h1>
@@ -39,34 +38,28 @@
 ## 📊 GitHub Stats & Top Languages
 <div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
   <!-- GitHub Stats -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="420" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
 
-  <!-- Top Languages -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical)
+  <!-- GitHub Streak -->
+
 </div>
 
----
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical" alt="Top Languages" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);"/>
+</p>
+
+ ---
 
 ## 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cabdikariim242&theme=radical&no-frame=true&row=1&column=5" alt="Trophies"/>
 </p>
 
----
-
-## 🚀 Projects Showcase
-<p align="center">
-  <a href="https://github.com/cabdikariim242/my-project">
-    <img src="https://img.shields.io/badge/My+Project-96f7d9?style=flat&logo=github&logoColor=black" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/cabdikariim242/awesome-app">
-    <img src="https://img.shields.io/badge/Awesome+App-54e3e5?style=flat&logo=github&logoColor=black" alt="Project 2"/>
-  </a>
-</p>
 
 ---
 
-## 💬 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:abdikarim.dev01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
