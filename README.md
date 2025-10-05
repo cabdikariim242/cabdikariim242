@@ -50,8 +50,6 @@
 
 ---
 
-
-
 ## 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cabdikariim242&theme=radical&no-frame=true&row=1&column=5" alt="Trophies"/>
@@ -59,26 +57,24 @@
 
 ---
 
+## 💬 Motivational Quote Bot
+Here’s a simple **Python bot** that generates motivational quotes:
 
+```python
+import random
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:abdikarim.dev01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://my-portfolio-ten-henna-48.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdikarim-dev-b6a94b388/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+# List of motivational quotes
+quotes = [
+    "Believe in yourself!",
+    "You are stronger than you think!",
+    "Don't stop until you're proud!",
+    "Every day is a new opportunity.",
+    "Success is the sum of small efforts, repeated day in and day out."
+]
 
----
+# Function to return a random quote
+def get_motivational_quote():
+    return random.choice(quotes)
 
-<p align="center">
-⚡ Building today for a better tomorrow. Let's code something amazing together! ⚡
-</p>
-
-<!-- Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+# Call the function to get a random quote
+print(get_motivational_quote())
