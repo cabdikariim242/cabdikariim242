@@ -21,7 +21,7 @@
 
 ## 💻 About Me
 - 🔭 Focused on **building clean & responsive UIs**  
-- 🌱 Learning **React, Node.js, Express, MongoDB**  
+- 🌱 Learning **React, react native**  
 - 💡 Solid with **HTML, CSS, JavaScript, Vue, React, TailwindCSS, Git**  
 - 🎯 Goal: Become a **Fullstack Developer**  
 - ⚡ Fun fact: Favorite movie: **How To Train Your Dragon 🐉**
