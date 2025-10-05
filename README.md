@@ -21,42 +21,55 @@
 
 ## 💻 About Me
 
-Hi! I’m **Abdikarim**, a front-end developer exploring fullstack.  
-I love **building responsive, clean UIs** and learning modern web technologies.
-
-- 🔭 Focused on **React, Node.js, Express, MongoDB**  
-- 💡 Strong with **HTML, CSS, JavaScript, Vue, React, TailwindCSS, Git**  
-- 🎯 Goal: Ship fullstack projects and contribute to open-source  
-- ⚡ Fun fact: My favorite movie is **How To Train Your Dragon 🐉**
+- 🔭 Building **responsive & interactive UIs**  
+- 🌱 Learning **React, Node.js, Express, MongoDB**  
+- 💡 Strong with **HTML, CSS, JS, Vue, React, Tailwind, Git**  
+- ⚡ Fun fact: Favorite movie is **How To Train Your Dragon 🐉**  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode,nodejs,mongodb,express" alt="Tech Icons" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Dashboard
 
 <div align="center" style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;align-items:flex-start;">
 
-  <!-- GitHub Stats card with shadow + hover effect -->
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical&count_private=true&hide_title=true" 
        width="420" style="border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.15);transition: transform 0.3s;" 
        onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"
        alt="GitHub Stats"/>
 
- 
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.vercel.app/?user=cabdikariim242&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+       width="380" style="border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.15);transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"
+       alt="GitHub Streak"/>
 
-  <!-- Top Languages card -->
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical&hide_title=true" 
        width="300" style="border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.15);transition: transform 0.3s;" 
        onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"
        alt="Top Languages"/>
 
+</div>
+
+---
+
+## 📈 Contribution Graph & Commits
+
+<div align="center" style="display:flex;flex-wrap:wrap;gap:18px;justify-content:center;align-items:center;">
+  <!-- Contribution heatmap -->
+  <img src="https://ghchart.rshah.org/cabdikariim242" alt="Contribution Graph" width="500" style="border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,0.12)"/>
+
+  <!-- Total commits badge -->
+  <img src="https://img.shields.io/github/commit-activity/y/cabdikariim242?style=for-the-badge&color=9966EB" alt="Total Commits"/>
 </div>
 
 ---
@@ -79,7 +92,7 @@ I love **building responsive, clean UIs** and learning modern web technologies.
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:abdikarim.dev01@gmail.com">
