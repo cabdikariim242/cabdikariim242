@@ -35,8 +35,7 @@
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical" alt="stats" />
- ![GitHub Streak](https://streak-stats.demolab.com?user=cabdikariim242&theme=radical&v=1)
-
+ ![GitHub Streak](https://streak-stats.demolab.com?user=cabdikariim242&theme=radical&v=3)
 
 </p>
 ---
