@@ -8,19 +8,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v3
 
       - name: Generate Snake
         uses: DenverCoder1/github-readme-snake-action@main
         with:
-          username: cabdikariim242
+          username: cabdikariim242  # Change this to your GitHub username
           color: 9966EB
           background: 0,0,0,0
           size: 25
           square: true
 
-      - name: Commit SVG
+      - name: Commit and Push SVG
         run: |
           git add snake.svg
           git commit -m "Update Snake" || echo "Nothing to commit"
