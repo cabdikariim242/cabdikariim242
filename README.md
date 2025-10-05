@@ -1,111 +1,85 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=4000&color=9966EB&width=700&height=50&lines=Hey,+I'm+Abdikarim!;Front-End+Developer+%7C+Aspiring+Fullstack;Let's+Build+Awesome+Apps!"/>
-</h1>
+<!-- Profile Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋+Hey!+I'm+Abdikarim&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
 
+<!-- Typing Intro -->
 <p align="center">
-  <a href="mailto:abdikarim.dev01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://my-portfolio-ten-henna-48.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdikarim-dev-b6a94b388/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/cabdikariim242">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Front+End+Developer+💻;Growing+into+Fullstack+🚀;Lover+of+clean+UI/UX+❤️;Always+building+something+awesome+🔥" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 💻 About Me
-
-- 🔭 Building **responsive & interactive UIs**  
+## 🌟 About Me  
+- 🔭 Currently building **beautiful & responsive UIs**  
 - 🌱 Learning **React, Node.js, Express, MongoDB**  
-- 💡 Strong with **HTML, CSS, JS, Vue, React, Tailwind, Git**  
-- ⚡ Fun fact: Favorite movie is **How To Train Your Dragon 🐉**  
+- 💡 Solid with **HTML, CSS, JavaScript, Vue, React, Git, TailwindCSS**  
+- 🎯 Goal: **Become a Fullstack Developer**  
+- ⚡ Fun fact: My favorite movie is **How To Train Your Dragon 🐉**  
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 My Tech Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode,nodejs,mongodb,express" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode,nodejs,express,mongodb" />
 </p>
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Stats  
 
-<div align="center" style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;align-items:flex-start;">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical&count_private=true&hide_title=true" 
-       width="420" style="border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.15);transition: transform 0.3s;" 
-       onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"
-       alt="GitHub Stats"/>
-
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=cabdikariim242&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-       width="380" style="border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.15);transition: transform 0.3s;" 
-       onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"
-       alt="GitHub Streak"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical&hide_title=true" 
-       width="300" style="border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.15);transition: transform 0.3s;" 
-       onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"
-       alt="Top Languages"/>
-
+<div align="center" style="display:flex; gap: 20px; justify-content:center; flex-wrap:wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cabdikariim242&theme=radical" alt="GitHub Streak" height="165"/>
 </div>
 
----
-
-## 📈 Contribution Graph & Commits
-
-<div align="center" style="display:flex;flex-wrap:wrap;gap:18px;justify-content:center;align-items:center;">
-  <!-- Contribution heatmap -->
-  <img src="https://ghchart.rshah.org/cabdikariim242" alt="Contribution Graph" width="500" style="border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,0.12)"/>
-
-  <!-- Total commits badge -->
-  <img src="https://img.shields.io/github/commit-activity/y/cabdikariim242?style=for-the-badge&color=9966EB" alt="Total Commits"/>
-</div>
-
----
-
-## 🏆 Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cabdikariim242&theme=radical&no-frame=true&row=1&column=5" alt="Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🎨 Projects Showcase
+## 🐍 Contributions Snake  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-E-commerce_UI-9cf?style=for-the-badge" alt="Project1"/> &nbsp;
-  <img src="https://img.shields.io/badge/Project-Rotating_Gallery-F7A?style=for-the-badge" alt="Project2"/> &nbsp;
-  <img src="https://img.shields.io/badge/Project-Pomodoro_Timer-68D?style=for-the-badge" alt="Project3"/>
+  <img src="https://raw.githubusercontent.com/cabdikariim242/cabdikariim242/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🎮 Commit Game (Mini Game!)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=cabdikariim242&show_game=true&theme=radical" alt="Commit Game" />
+</p>
+
+*(Your commits “feed” a character — the more you commit, the more your little avatar grows and moves 🎮)*  
+
+---
+
+## 🌍 Connect With Me  
 
 <p align="center">
   <a href="mailto:abdikarim.dev01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
+  <a href="https://my-portfolio-ten-henna-48.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/abdikarim-dev-b6a94b388/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://my-portfolio-ten-henna-48.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-<p align="center">⚡ Building today for a better tomorrow. Let's code something amazing together! ⚡</p>
+<p align="center">
+⚡ Building today for a better tomorrow.  
+Let’s code something amazing together! ⚡
+</p>
+
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
