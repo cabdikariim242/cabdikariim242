@@ -39,12 +39,11 @@
 ## 📊 GitHub Stats & Top Languages
 <div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="420" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.15);" />
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cabdikariim242&show_icons=true&theme=radical)
 
-<p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical" alt="Top Languages" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.12);"/>
-</p>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical)
+</div>
 
 ---
 
@@ -55,16 +54,19 @@
 
 ---
 
-## 💬 Motivational Quote Bot
-Here’s a random **motivational quote** that gets updated manually by generating a new image link with your chosen quote.
-
-![Motivational Quote](https://via.placeholder.com/600x100/9966EB/ffffff?text=%22Believe+in+yourself!+You+can+do+it!%22)
-
-_Refresh this image with a new quote when you want to change it._
+## 🚀 Projects Showcase
+<p align="center">
+  <a href="https://github.com/cabdikariim242/my-project">
+    <img src="https://img.shields.io/badge/My+Project-96f7d9?style=flat&logo=github&logoColor=black" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/cabdikariim242/awesome-app">
+    <img src="https://img.shields.io/badge/Awesome+App-54e3e5?style=flat&logo=github&logoColor=black" alt="Project 2"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 💬 Connect With Me
 <p align="center">
   <a href="mailto:abdikarim.dev01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
