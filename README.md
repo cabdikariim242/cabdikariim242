@@ -34,7 +34,7 @@ I love **building responsive, clean UIs** and learning modern web technologies.
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode,nodejs,mongodb,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode," />
 </p>
 
 ---
@@ -49,11 +49,7 @@ I love **building responsive, clean UIs** and learning modern web technologies.
        onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"
        alt="GitHub Stats"/>
 
-  <!-- Streak card with shadow + hover effect -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=cabdikariim242&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-       width="380" style="border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.15);transition: transform 0.3s;" 
-       onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"
-       alt="GitHub Streak"/>
+ 
 
   <!-- Top Languages card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabdikariim242&layout=compact&theme=radical&hide_title=true" 
