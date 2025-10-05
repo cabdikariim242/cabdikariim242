@@ -5,7 +5,7 @@
   <a href="mailto:abdikarim.dev01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://abdikarim-dev-portfolio.vercel.app/">
+  <a href="https://my-portfolio-ten-henna-48.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
