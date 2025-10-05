@@ -1,4 +1,4 @@
-<!-- Animated Header Banner -->
+<!-- Animated Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=9966EB&width=700&lines=Hey,+I'm+Abdikarim!;Front-End+Developer+%7C+Aspiring+Fullstack;Let's+Build+Awesome+Apps!" alt="Typing SVG"/>
 </h1>
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode,nodejs,mongodb,express" />
 </p>
@@ -51,8 +51,10 @@
 
 ## 🐍 Contributions Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-snake/main/github-contribution-grid-snake.svg?user=cabdikariim242&theme=radical" alt="GitHub Contributions Snake" width="700" />
+  <img src="https://raw.githubusercontent.com/cabdikariim242/cabdikariim242/main/snake.svg" alt="GitHub Contributions Snake" width="700" />
 </p>
+
+> ⚠️ Make sure you added the **workflow** `.github/workflows/snake.yml` so this snake is generated automatically.
 
 ---
 
