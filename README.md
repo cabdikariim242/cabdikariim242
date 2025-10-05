@@ -53,9 +53,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/cabdikariim242/cabdikariim242/main/snake.svg" alt="GitHub Contributions Snake" width="700" />
 </p>
-
-> ⚠️ Make sure you added the **workflow** `.github/workflows/snake.yml` so this snake is generated automatically.
-
 ---
 
 ## 🏆 Trophies
