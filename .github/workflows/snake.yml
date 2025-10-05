@@ -1,0 +1,31 @@
+name: GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: DenverCoder1/github-readme-snake-action@main
+        with:
+          username: cabdikariim242
+          color: 9966EB
+          background: 0,0,0,0
+          size: 25
+          square: true
+
+      - name: Commit Snake
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add snake.svg
+          git commit -m "Update GitHub Snake" || echo "No changes to commit"
+          git push
