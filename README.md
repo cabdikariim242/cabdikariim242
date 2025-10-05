@@ -77,3 +77,6 @@
 <p align="center">
 ⚡ Building today for a better tomorrow. Let's code something amazing together! ⚡
 </p>
+
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
