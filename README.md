@@ -31,7 +31,7 @@
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode" />
-  <img src="https://skillicons.dev/icons?i=react,react" title="React Native" />
+  <img src="https://skillicons.dev/icons?i=react" title="React Native" />
 
 </p>
 
