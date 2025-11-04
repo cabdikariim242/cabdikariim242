@@ -22,7 +22,7 @@
 ## 💻 About Me
 - 🔭 Focused on **building clean & responsive UIs**  
 - 🌱 Learning **React, react native**  
-- 💡 Solid with **HTML, CSS, JavaScript, Vue, React, TailwindCSS, Git**  
+- 💡 Solid with **HTML, CSS, JavaScript, Vue, React, React Native TailwindCSS, Git**  
 - 🎯 Goal: Become a **Fullstack Developer**  
 - ⚡ Fun fact: Favorite movie: **How To Train Your Dragon 🐉**
 
@@ -30,7 +30,7 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,reactNative,tailwind,git,github,vscode" />
 </p>
 
 ---
