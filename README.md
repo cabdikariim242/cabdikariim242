@@ -9,7 +9,7 @@
   <a href="mailto:abdikarim.dev01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://https://abdikariim.vercel.app//">
+  <a href="https://https:abdikariim.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/abdikarim-dev-b6a94b388/">
