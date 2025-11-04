@@ -42,7 +42,7 @@
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,git,github,vscode" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/React_Native_logo.png" width="48" title="React Native" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/react" width="48" title="React Native" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@
   <a href="mailto:abdikarim.dev01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://my-portfolio-ten-henna-48.vercel.app/">
+  <a href="https://abdikariim.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/abdikarim-dev-b6a94b388/">
